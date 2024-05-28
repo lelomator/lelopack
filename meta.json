@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
+        {
+        "id": "0.0.1.7",
+        "releasedAt": 1704070861,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/",
+            }
+        }
+    }
  
   ]
 }
